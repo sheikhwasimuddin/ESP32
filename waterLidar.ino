@@ -16,8 +16,8 @@
 #define DATABASE_URL "Enter database url"
 
 // Firebase Authentication
-#define USER_EMAIL "sheikhwasimuddin786@gmail.com"
-#define USER_PASSWORD "123456"
+#define USER_EMAIL "enter email"
+#define USER_PASSWORD "enter password"
 
 // Firebase Objects
 FirebaseData fbdo;
