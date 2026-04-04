@@ -12,16 +12,16 @@
 #include "addons/RTDBHelper.h"
 
 // ================= WIFI =================
-#define WIFI_SSID "wasim"
-#define WIFI_PASSWORD "sheikh123"
+#define WIFI_SSID "enter your wifi name"
+#define WIFI_PASSWORD "enter your wifi password"
 
 // ================= FIREBASE =================
-#define API_KEY "AIzaSyBaKPP5EiCkg0EcQLQZfXAgJYJNfOXIhY0"
-#define DATABASE_URL "https://smartblindstick-a3e96-default-rtdb.firebaseio.com/"
+#define API_KEY "enter the firebase apikey"
+#define DATABASE_URL "enter database url"
 
 // Firebase Authentication
-#define USER_EMAIL "sheikhwasimuddin786@gmail.com"
-#define USER_PASSWORD "123456"
+#define USER_EMAIL "enter user email"
+#define USER_PASSWORD "enter user password"
 
 // Firebase Objects
 FirebaseData fbdo;
